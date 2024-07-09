@@ -43,3 +43,5 @@ latexmk/
 out/
 tmp/
 comment.cut
+.DS_Store
+temp.txt
