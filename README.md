@@ -1,3 +1,3 @@
-# bunGesture_paper
+# BunGesture_paper
 bunGesture paper
 
